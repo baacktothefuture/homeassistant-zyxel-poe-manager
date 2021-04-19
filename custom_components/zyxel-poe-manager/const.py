@@ -1,0 +1,1 @@
+DOMAIN = "zyxel-poe-manager"
